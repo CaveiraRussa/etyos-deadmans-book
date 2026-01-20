@@ -1,7 +1,7 @@
 {
   "id": "etyos-deadmans-book",
   "title": "ETYO'S DEADMAN'S BOOK",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "manifest": "https://github.com/CaveiraRussa/etyos-deadmans-book/releases/download/latest/module.json", 
   "download": "https://github.com/CaveiraRussa/etyos-deadmans-book/releases/download/latest/module.zip",
   "compatibility": {
@@ -17,7 +17,7 @@
       }
     ]
   },
-  "description": "<p>Conteudos extras para T20</p>",
+  "description": "<p>The book of the deadman dev/narrator</p>",
   "authors": [
     {
       "name": "CaveiraX01",
