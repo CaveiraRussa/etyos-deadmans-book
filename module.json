@@ -2,6 +2,8 @@
   "id": "etyos-deadmans-book",
   "title": "ETYO'S DEADMAN'S BOOK",
   "version": "1.0.0",
+  "manifest": "https://github.com/CaveiraRussa/etyos-deadmans-book/releases/download/latest/module.json", 
+  "download": "https://github.com/CaveiraRussa/etyos-deadmans-book/releases/download/latest/module.zip",
   "compatibility": {
     "minimum": "12",
     "verified": "13"
