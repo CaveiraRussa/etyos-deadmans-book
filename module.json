@@ -1,0 +1,127 @@
+{
+  "id": "etyos-deadmans-book",
+  "title": "ETYO'S DEADMAN'S BOOK",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "13"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "tormenta20",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "description": "<p>Conteudos extras para T20</p>",
+  "authors": [
+    {
+      "name": "CaveiraX01",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "ameacas",
+      "label": "Ameaças",
+      "path": "packs/ameacas",
+      "type": "Actor",
+      "system": "tormenta20",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "item",
+      "label": "Item",
+      "path": "packs/item",
+      "type": "Item",
+      "system": "tormenta20",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "mapas",
+      "label": "Mapas",
+      "path": "packs/mapas",
+      "type": "Scene",
+      "system": "tormenta20",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "magias",
+      "label": "Magias",
+      "path": "packs/magias",
+      "type": "Item",
+      "system": "tormenta20",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "poderes",
+      "label": "Poderes",
+      "path": "packs/poderes",
+      "type": "Item",
+      "system": "tormenta20",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "origens",
+      "label": "Origens",
+      "path": "packs/origens",
+      "type": "Item",
+      "system": "tormenta20",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "racas",
+      "label": "Raças",
+      "path": "packs/racas",
+      "type": "Item",
+      "system": "tormenta20",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "classes",
+      "label": "Classes",
+      "path": "packs/classes",
+      "type": "Item",
+      "system": "tormenta20",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "distincao",
+      "label": "Distinções",
+      "path": "packs/distincao",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "tormenta20"
+    }
+  ],
+  "flags": {}
+}
