@@ -1,3 +1,10 @@
-2026/03/03-00:24:04.099 4174 Recovering log #897
-2026/03/03-00:24:04.105 4174 Delete type=0 #897
-2026/03/03-00:24:04.106 4174 Delete type=3 #895
+2026/03/04-01:52:45.427 94e0 Log #902: 225 ops saved to Table #906 OK
+2026/03/04-01:52:45.428 94e0 Archiving C:\Users\LuizM\AppData\Local\FoundryVTT\Data\modules\etyos-deadmans-book\packs\origens/000902.log: OK
+2026/03/04-01:52:45.428 94e0 Log #905: 0 ops saved to Table #907 OK
+2026/03/04-01:52:45.429 94e0 Archiving C:\Users\LuizM\AppData\Local\FoundryVTT\Data\modules\etyos-deadmans-book\packs\origens/000905.log: OK
+2026/03/04-01:52:45.429 94e0 Table #754: 200 entries OK
+2026/03/04-01:52:45.430 94e0 Table #904: 225 entries OK
+2026/03/04-01:52:45.430 94e0 Table #906: 225 entries OK
+2026/03/04-01:52:45.432 94e0 Archiving C:\Users\LuizM\AppData\Local\FoundryVTT\Data\modules\etyos-deadmans-book\packs\origens/MANIFEST-000901: OK
+2026/03/04-01:52:45.433 94e0 Archiving C:\Users\LuizM\AppData\Local\FoundryVTT\Data\modules\etyos-deadmans-book\packs\origens/MANIFEST-000903: OK
+2026/03/04-01:52:45.436 94e0 **** Repaired leveldb C:\Users\LuizM\AppData\Local\FoundryVTT\Data\modules\etyos-deadmans-book\packs\origens; recovered 3 files; 194391 bytes. Some data may have been lost. ****

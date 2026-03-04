@@ -1,3 +1,10 @@
-2026/03/03-00:24:03.942 5644 Recovering log #994
-2026/03/03-00:24:03.947 5644 Delete type=0 #994
-2026/03/03-00:24:03.947 5644 Delete type=3 #983
+2026/03/04-01:52:44.982 7f8c Log #1002: 0 ops saved to Table #1005 OK
+2026/03/04-01:52:44.983 7f8c Archiving C:\Users\LuizM\AppData\Local\FoundryVTT\Data\modules\etyos-deadmans-book\packs\ameacas/001002.log: OK
+2026/03/04-01:52:44.983 7f8c Log #1004: 0 ops saved to Table #1006 OK
+2026/03/04-01:52:44.983 7f8c Archiving C:\Users\LuizM\AppData\Local\FoundryVTT\Data\modules\etyos-deadmans-book\packs\ameacas/001004.log: OK
+2026/03/04-01:52:44.992 7f8c Table #996: 1411 entries OK
+2026/03/04-01:52:45.000 7f8c Table #997: 2853 entries OK
+2026/03/04-01:52:45.006 7f8c Table #998: 3662 entries OK
+2026/03/04-01:52:45.009 7f8c Archiving C:\Users\LuizM\AppData\Local\FoundryVTT\Data\modules\etyos-deadmans-book\packs\ameacas/MANIFEST-001001: OK
+2026/03/04-01:52:45.010 7f8c Archiving C:\Users\LuizM\AppData\Local\FoundryVTT\Data\modules\etyos-deadmans-book\packs\ameacas/MANIFEST-001003: OK
+2026/03/04-01:52:45.012 7f8c **** Repaired leveldb C:\Users\LuizM\AppData\Local\FoundryVTT\Data\modules\etyos-deadmans-book\packs\ameacas; recovered 3 files; 5730237 bytes. Some data may have been lost. ****

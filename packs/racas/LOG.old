@@ -1,3 +1,11 @@
-2026/03/03-00:24:04.117 4b4c Recovering log #908
-2026/03/03-00:24:04.123 4b4c Delete type=0 #908
-2026/03/03-00:24:04.123 4b4c Delete type=3 #906
+2026/03/04-01:52:45.469 94e0 Log #914: 103 ops saved to Table #919 OK
+2026/03/04-01:52:45.472 94e0 Archiving C:\Users\LuizM\AppData\Local\FoundryVTT\Data\modules\etyos-deadmans-book\packs\racas/000914.log: OK
+2026/03/04-01:52:45.472 94e0 Log #917: 0 ops saved to Table #920 OK
+2026/03/04-01:52:45.473 94e0 Archiving C:\Users\LuizM\AppData\Local\FoundryVTT\Data\modules\etyos-deadmans-book\packs\racas/000917.log: OK
+2026/03/04-01:52:45.473 94e0 Table #793: 359 entries OK
+2026/03/04-01:52:45.475 94e0 Table #913: 446 entries OK
+2026/03/04-01:52:45.476 94e0 Table #918: 459 entries OK
+2026/03/04-01:52:45.476 94e0 Table #919: 103 entries OK
+2026/03/04-01:52:45.478 94e0 Archiving C:\Users\LuizM\AppData\Local\FoundryVTT\Data\modules\etyos-deadmans-book\packs\racas/MANIFEST-000912: OK
+2026/03/04-01:52:45.479 94e0 Archiving C:\Users\LuizM\AppData\Local\FoundryVTT\Data\modules\etyos-deadmans-book\packs\racas/MANIFEST-000915: OK
+2026/03/04-01:52:45.483 94e0 **** Repaired leveldb C:\Users\LuizM\AppData\Local\FoundryVTT\Data\modules\etyos-deadmans-book\packs\racas; recovered 4 files; 566899 bytes. Some data may have been lost. ****

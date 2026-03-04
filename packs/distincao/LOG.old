@@ -1,3 +1,11 @@
-2026/03/03-00:24:04.143 4174 Recovering log #190
-2026/03/03-00:24:04.147 4174 Delete type=0 #190
-2026/03/03-00:24:04.147 4174 Delete type=3 #188
+2026/03/04-01:52:45.591 94e0 Log #195: 929 ops saved to Table #199 OK
+2026/03/04-01:52:45.592 94e0 Archiving C:\Users\LuizM\AppData\Local\FoundryVTT\Data\modules\etyos-deadmans-book\packs\distincao/000195.log: OK
+2026/03/04-01:52:45.602 94e0 Log #198: 5 ops saved to Table #200 OK
+2026/03/04-01:52:45.602 94e0 Archiving C:\Users\LuizM\AppData\Local\FoundryVTT\Data\modules\etyos-deadmans-book\packs\distincao/000198.log: OK
+2026/03/04-01:52:45.603 94e0 Table #47: 459 entries OK
+2026/03/04-01:52:45.606 94e0 Table #197: 929 entries OK
+2026/03/04-01:52:45.607 94e0 Table #199: 929 entries OK
+2026/03/04-01:52:45.608 94e0 Table #200: 5 entries OK
+2026/03/04-01:52:45.610 94e0 Archiving C:\Users\LuizM\AppData\Local\FoundryVTT\Data\modules\etyos-deadmans-book\packs\distincao/MANIFEST-000194: OK
+2026/03/04-01:52:45.610 94e0 Archiving C:\Users\LuizM\AppData\Local\FoundryVTT\Data\modules\etyos-deadmans-book\packs\distincao/MANIFEST-000196: OK
+2026/03/04-01:52:45.613 94e0 **** Repaired leveldb C:\Users\LuizM\AppData\Local\FoundryVTT\Data\modules\etyos-deadmans-book\packs\distincao; recovered 4 files; 1328505 bytes. Some data may have been lost. ****

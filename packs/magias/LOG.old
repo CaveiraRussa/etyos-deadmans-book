@@ -1,3 +1,9 @@
-2026/03/03-00:24:04.053 4174 Recovering log #907
-2026/03/03-00:24:04.057 4174 Delete type=0 #907
-2026/03/03-00:24:04.058 4174 Delete type=3 #905
+2026/03/04-01:52:45.255 94e0 Log #913: 0 ops saved to Table #916 OK
+2026/03/04-01:52:45.256 94e0 Archiving C:\Users\LuizM\AppData\Local\FoundryVTT\Data\modules\etyos-deadmans-book\packs\magias/000913.log: OK
+2026/03/04-01:52:45.257 94e0 Log #915: 0 ops saved to Table #917 OK
+2026/03/04-01:52:45.257 94e0 Archiving C:\Users\LuizM\AppData\Local\FoundryVTT\Data\modules\etyos-deadmans-book\packs\magias/000915.log: OK
+2026/03/04-01:52:45.258 94e0 Table #862: 234 entries OK
+2026/03/04-01:52:45.259 94e0 Table #912: 300 entries OK
+2026/03/04-01:52:45.261 94e0 Archiving C:\Users\LuizM\AppData\Local\FoundryVTT\Data\modules\etyos-deadmans-book\packs\magias/MANIFEST-000911: OK
+2026/03/04-01:52:45.261 94e0 Archiving C:\Users\LuizM\AppData\Local\FoundryVTT\Data\modules\etyos-deadmans-book\packs\magias/MANIFEST-000914: OK
+2026/03/04-01:52:45.265 94e0 **** Repaired leveldb C:\Users\LuizM\AppData\Local\FoundryVTT\Data\modules\etyos-deadmans-book\packs\magias; recovered 2 files; 245028 bytes. Some data may have been lost. ****

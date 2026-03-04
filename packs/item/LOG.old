@@ -1,3 +1,10 @@
-2026/03/03-00:24:04.020 26b8 Recovering log #908
-2026/03/03-00:24:04.024 26b8 Delete type=0 #908
-2026/03/03-00:24:04.025 26b8 Delete type=3 #906
+2026/03/04-01:52:45.141 9fc4 Log #913: 1835 ops saved to Table #917 OK
+2026/03/04-01:52:45.142 9fc4 Archiving C:\Users\LuizM\AppData\Local\FoundryVTT\Data\modules\etyos-deadmans-book\packs\item/000913.log: OK
+2026/03/04-01:52:45.142 9fc4 Log #916: 0 ops saved to Table #918 OK
+2026/03/04-01:52:45.143 9fc4 Archiving C:\Users\LuizM\AppData\Local\FoundryVTT\Data\modules\etyos-deadmans-book\packs\item/000916.log: OK
+2026/03/04-01:52:45.144 9fc4 Table #793: 600 entries OK
+2026/03/04-01:52:45.149 9fc4 Table #915: 1835 entries OK
+2026/03/04-01:52:45.153 9fc4 Table #917: 1835 entries OK
+2026/03/04-01:52:45.156 9fc4 Archiving C:\Users\LuizM\AppData\Local\FoundryVTT\Data\modules\etyos-deadmans-book\packs\item/MANIFEST-000912: OK
+2026/03/04-01:52:45.157 9fc4 Archiving C:\Users\LuizM\AppData\Local\FoundryVTT\Data\modules\etyos-deadmans-book\packs\item/MANIFEST-000914: OK
+2026/03/04-01:52:45.161 9fc4 **** Repaired leveldb C:\Users\LuizM\AppData\Local\FoundryVTT\Data\modules\etyos-deadmans-book\packs\item; recovered 3 files; 2534107 bytes. Some data may have been lost. ****
