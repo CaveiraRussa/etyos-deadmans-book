@@ -1,1 +1,7 @@
-2026/03/04-01:52:45.238 9fc4 Delete type=3 #1
+2026/04/03-02:05:46.314 2ea8 Recovering log #954
+2026/04/03-02:05:46.319 2ea8 Delete type=0 #954
+2026/04/03-02:05:46.319 2ea8 Delete type=3 #952
+2026/04/03-02:21:25.001 50d0 Level-0 table #959: started
+2026/04/03-02:21:25.001 50d0 Level-0 table #959: 0 bytes OK
+2026/04/03-02:21:25.002 50d0 Delete type=0 #957
+2026/04/03-02:21:25.003 50d0 Manual compaction at level-0 from '!folders!WmZCEMzLHagTvqS7' @ 72057594037927935 : 1 .. '!scenes.tokens.delta!RVOzKJ3wSEtbHSk6.mnpmCyLtGo3epljY.HMUJ1VlBQTiEHsTA' @ 0 : 0; will stop at (end)

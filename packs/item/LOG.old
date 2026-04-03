@@ -1,10 +1,14 @@
-2026/03/04-01:52:45.141 9fc4 Log #913: 1835 ops saved to Table #917 OK
-2026/03/04-01:52:45.142 9fc4 Archiving C:\Users\LuizM\AppData\Local\FoundryVTT\Data\modules\etyos-deadmans-book\packs\item/000913.log: OK
-2026/03/04-01:52:45.142 9fc4 Log #916: 0 ops saved to Table #918 OK
-2026/03/04-01:52:45.143 9fc4 Archiving C:\Users\LuizM\AppData\Local\FoundryVTT\Data\modules\etyos-deadmans-book\packs\item/000916.log: OK
-2026/03/04-01:52:45.144 9fc4 Table #793: 600 entries OK
-2026/03/04-01:52:45.149 9fc4 Table #915: 1835 entries OK
-2026/03/04-01:52:45.153 9fc4 Table #917: 1835 entries OK
-2026/03/04-01:52:45.156 9fc4 Archiving C:\Users\LuizM\AppData\Local\FoundryVTT\Data\modules\etyos-deadmans-book\packs\item/MANIFEST-000912: OK
-2026/03/04-01:52:45.157 9fc4 Archiving C:\Users\LuizM\AppData\Local\FoundryVTT\Data\modules\etyos-deadmans-book\packs\item/MANIFEST-000914: OK
-2026/03/04-01:52:45.161 9fc4 **** Repaired leveldb C:\Users\LuizM\AppData\Local\FoundryVTT\Data\modules\etyos-deadmans-book\packs\item; recovered 3 files; 2534107 bytes. Some data may have been lost. ****
+2026/04/02-21:37:17.111 6dfc Recovering log #959
+2026/04/02-21:37:17.116 6dfc Delete type=0 #959
+2026/04/02-21:37:17.116 6dfc Delete type=3 #958
+2026/04/03-02:05:37.818 50d0 Level-0 table #963: started
+2026/04/03-02:05:37.818 50d0 Level-0 table #963: 0 bytes OK
+2026/04/03-02:05:37.820 50d0 Delete type=0 #961
+2026/04/03-02:05:37.829 50d0 Manual compaction at level-0 from '!folders!2QZRioFm7xj6E6DG' @ 72057594037927935 : 1 .. '!items.effects!zBsMaDTCr9kI8GTf.qMHc4yWAeMIcQxKY' @ 0 : 0; will stop at '!items!zMPMfyFBoeQGSwPR' @ 4487 : 1
+2026/04/03-02:05:37.829 50d0 Compacting 1@0 + 1@1 files
+2026/04/03-02:05:37.855 50d0 Generated table #964@0: 1223 keys, 811275 bytes
+2026/04/03-02:05:37.855 50d0 Compacted 1@0 + 1@1 files => 811275 bytes
+2026/04/03-02:05:37.856 50d0 compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/04/03-02:05:37.858 50d0 Delete type=2 #930
+2026/04/03-02:05:37.858 50d0 Delete type=2 #952
+2026/04/03-02:05:37.858 50d0 Manual compaction at level-0 from '!items!zMPMfyFBoeQGSwPR' @ 4487 : 1 .. '!items.effects!zBsMaDTCr9kI8GTf.qMHc4yWAeMIcQxKY' @ 0 : 0; will stop at (end)

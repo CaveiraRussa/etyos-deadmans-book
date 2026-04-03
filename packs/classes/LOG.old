@@ -1,8 +1,7 @@
-2026/03/04-01:52:45.515 94e0 Log #895: 0 ops saved to Table #898 OK
-2026/03/04-01:52:45.516 94e0 Archiving C:\Users\LuizM\AppData\Local\FoundryVTT\Data\modules\etyos-deadmans-book\packs\classes/000895.log: OK
-2026/03/04-01:52:45.516 94e0 Log #897: 0 ops saved to Table #899 OK
-2026/03/04-01:52:45.516 94e0 Archiving C:\Users\LuizM\AppData\Local\FoundryVTT\Data\modules\etyos-deadmans-book\packs\classes/000897.log: OK
-2026/03/04-01:52:45.516 94e0 Table #709: 20 entries OK
-2026/03/04-01:52:45.518 94e0 Archiving C:\Users\LuizM\AppData\Local\FoundryVTT\Data\modules\etyos-deadmans-book\packs\classes/MANIFEST-000894: OK
-2026/03/04-01:52:45.519 94e0 Archiving C:\Users\LuizM\AppData\Local\FoundryVTT\Data\modules\etyos-deadmans-book\packs\classes/MANIFEST-000896: OK
-2026/03/04-01:52:45.521 94e0 **** Repaired leveldb C:\Users\LuizM\AppData\Local\FoundryVTT\Data\modules\etyos-deadmans-book\packs\classes; recovered 1 files; 10428 bytes. Some data may have been lost. ****
+2026/04/02-21:37:17.329 7b8c Recovering log #936
+2026/04/02-21:37:17.333 7b8c Delete type=0 #936
+2026/04/02-21:37:17.334 7b8c Delete type=3 #935
+2026/04/03-02:05:37.860 50d0 Level-0 table #940: started
+2026/04/03-02:05:37.860 50d0 Level-0 table #940: 0 bytes OK
+2026/04/03-02:05:37.862 50d0 Delete type=0 #938
+2026/04/03-02:05:37.868 50d0 Manual compaction at level-0 from '!items!63JT4q21CvICqE3n' @ 72057594037927935 : 1 .. '!items!yey4Dds9SPy6bPFC' @ 0 : 0; will stop at (end)
